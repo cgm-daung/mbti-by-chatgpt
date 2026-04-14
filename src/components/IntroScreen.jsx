@@ -11,7 +11,7 @@ export default function IntroScreen() {
           စိတ်ပိုင်းဆိုင်ရာ စမ်းသပ်မှု
         </p>
         <h1 className="mb-4 text-2xl font-semibold tracking-tight text-ink-900 sm:text-3xl">
-          ကိုဂ်နီတီဗ် ဖန်ရှင်ရှင်း နှင့် MBTI စိတ်ပိုင်းဆိုင်ရာ စမ်းသပ်မှု
+          Cognitive Functions နှင့် MBTI စမ်းသပ်မှု
         </h1>
         <p className="mb-6 text-[15px] leading-[1.75] text-ink-700">
           မေးခွန်း ၁၀၀ ပါဝင်ပြီး တစ်စာမျက်နှာလျှင် ၅ မေးခွန်း ဖြစ်သည်။ ဖြေသွားသည်များကို သိမ်းထားသဖြင့်
